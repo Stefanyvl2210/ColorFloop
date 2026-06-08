@@ -66,6 +66,4 @@ g++ --version
 
 DEMO:
 
-```markdown
 ![Demo de Color Floop](assets/demo.gif)
-```
