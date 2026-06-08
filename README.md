@@ -15,6 +15,8 @@ Tambien puedes abrir `proyecto_stefany_colorf.exe` con doble clic desde el Explo
 
 ## Como jugar
 
+![Demo de Color Floop](assets/demo.gif)
+
 1. En el menu principal selecciona `1.INICIAR NUEVO JUEGO`.
 2. Elige la dificultad:
    - `1.FACIL`: tablero 10x10 con 25 movimientos.
@@ -63,7 +65,3 @@ Si quieres verificar que tienes `g++` instalado:
 ```powershell
 g++ --version
 ```
-
-DEMO:
-
-![Demo de Color Floop](assets/demo.gif)
